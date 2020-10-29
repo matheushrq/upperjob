@@ -1,0 +1,87 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: url(maps.jpg) no-repeat;
+    background-size: cover;
+    
+}
+
+.login
+{
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ef841c;
+    padding:center;
+
+}
+
+.login img
+{
+    width:100%;
+    height:100%;
+   
+}
+
+.textbox
+{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: center;
+    margin: center;
+    border-bottom:  1px solid #ef841c
+    
+}
+
+.textbox i
+{
+    width: 26px;
+    float: left;
+    text-align: center; 
+    margin-top: 10px    
+}
+
+.textbox input
+{
+    border: none;
+    outline: none;
+    background: none;
+    color: black;
+    font-size: 20px;
+    width: 80%;
+    float: left;
+    margin:  10px;
+}
+
+.logar
+{
+    width:100%;
+    background: none;
+    border: 2px solid #ef841c;
+    color: black;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 10px
+}
+
+/*.btnauto 
+{
+    width:100%;
+    background: none;
+    border: 2px solid orangered;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;  
+} */
+footer{
+    text-align: center;
+    color: honeydew;
+    text-decoration: none;
+    text-shadow: 3px 3px 3px #363636;
+}
